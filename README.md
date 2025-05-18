@@ -20,3 +20,21 @@ In general, I am quite happy with the project as I hvae felt a lot more confiden
 In total, I think I did a lot of work and had a great work ethic, although I can see that I was quite distracted in class some days. Luckily, During the last few weeks, I worked much harder and was able to complete a lot of 
 work in general. My main task was with the portfolio, which I worked extremely hard on, and focused most lessons to get it completed. However, in addition, I did help with other things, like the design and the research task. Unfortunately,
 I wasn't as involved in the programming as I would have liked to be, but Siddhant and Kai were more experienced, and therefore more suitable for the job, although I did help a little and learned a lot from the task.
+
+
+
+Testing:
+- unfortnately, while we weren't able to perform many tests, we were relatively lucky in the sense we were able to get a grasp of how the ev3 worked
+  and how we had to move ahead with the project. This gave us a clear indication for how our pseudocode should be layed out.
+- ideally, the program should make the robot navigate the playfield, turning 45 degrees away if it finds an obstruction or the boundary. When it
+  finds a block that it is required to pick, a function known as Pick_me will kickstart, causing the vehicle to push the block into its
+  designated spot. This will then be repeated until all the blocks have been moved.
+- Furthermore, there will be troubleshooting functions that will allow the robot to get a sense for its environment, and make sure
+  it is successfully able to navigate through the course with minimal distractions and an ability to recouperate if the function stops working
+
+
+
+
+
+
+
